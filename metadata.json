@@ -1,0 +1,6 @@
+{
+  "name": "IndieForge - Indie Game Studio Jobs & Verification Hub",
+  "description": "Discover verified indie game studio openings, filter by engine, discipline, and location, submit community-sourced roles, and apply directly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
